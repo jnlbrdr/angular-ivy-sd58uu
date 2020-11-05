@@ -1,0 +1,8 @@
+p {
+  font-family: papyrus;
+  font-size:150%;
+  text-align: justify;
+  color: whitesmoke;
+  background: linear-gradient(to bottom, #000000 0%, #4169E1 100%);
+  border-style: outset;
+}
